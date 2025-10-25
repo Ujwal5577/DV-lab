@@ -1,0 +1,17 @@
+Column Name,Description
+State,Abbreviated or full state name.
+District,Full district name including state context.
+Persons,Total population.
+Males,Male population.
+Females,Female population.
+Growth..1991...2001.,Population growth percentage between 1991 and 2001.
+Rural,Rural population count.
+Urban,Urban population count (note None values are empty in CSV).
+Primary.Health.Centre,Number of Primary Health Centres.
+Primary.Health.Sub.Centre,Number of Primary Health Sub-Centres.
+Bus.services,Number of bus services/routes/villages covered.
+Paved.approach.road,Number of villages with a paved approach road.
+Mud.approach.road,Number of villages with a mud approach road.
+Permanent.House,Percentage of permanent houses.
+Semi-permanent.House,Percentage of semi-permanent houses.
+Temporary.House,Percentage of temporary houses.
